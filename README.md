@@ -1,6 +1,6 @@
 **Ou,Hello I'm Nashu/Snavy**
 
-• Discord : Snavy 𐰬#5544.          
+• Discord : "NashuPlayZ_xÐ" 𐰬#5544      
 • Insta : itz.nashu_             
 • EMail : nashu.sharma999@gmail.com
 
