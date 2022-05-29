@@ -1,14 +1,14 @@
-**Ou,Hello I'm Nashu/Snavy**
+**Ou,Hello I'm Nashu**
 
-• Discord : "NashuPlayZ_xÐ" 𐰬#5544      
-• Insta : itz.nashu_             
+• Discord : ~ Nxshu𐰬#5544      
+• Insta : `_nx__`           
 • EMail : nashu.sharma999@gmail.com
-
-
-**I'm A Student, Ya I Have A Discord Server But I Dont Want 
-To Share Here, Later...**
-
+• Nexon : https://dsc.gg/nxon
+ 
 
 
 
-Have A Bad Day 
+
+
+
+
