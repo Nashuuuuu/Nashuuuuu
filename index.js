@@ -14,3 +14,9 @@
             badgeSpan.style.fontSize = "14px";
             badgeSpan.style.fontWeight = "bold";
             badgeSpan.style.marginRight = "10px";
+// Append the badge span to the badge container
+            document.getElementById("badgeContainer").appendChild(badgeSpan);
+        }
+
+        // Call the function to generate and append the badge
+        generateBadge();
